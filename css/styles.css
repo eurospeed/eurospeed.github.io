@@ -1,0 +1,18 @@
+body {
+	margin:0px; 
+	padding:0px;
+	background-repeat: no-repeat;
+	color: #fff3;
+	font-size: 14px;
+	font-family:Arial, Helvetica, sans-serif;
+	text-align:justify;
+}
+
+.logo {
+    padding:0px; 
+	border-width:0px; 
+	margin:0px; 
+    display: block;
+    width: 20%;
+    height: 20%;
+}
